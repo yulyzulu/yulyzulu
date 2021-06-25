@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:books: I am passionate about new knowledge and professional challenges.  
+:computer: I am in constant training especially in frontend technologies and JavaScript.  
+:bulb: I have experience in application development using technologies such as React JS, HTML 5, CSS, Javascript, Python and MongoDB.
