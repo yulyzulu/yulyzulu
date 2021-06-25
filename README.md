@@ -25,6 +25,6 @@ I enjoy :woman_cook:cooking, :open_book:reading, :airplane:traveling and sharing
 
 ### Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulyzulu&layout=compact&theme=bear" width=415 />
-  <img src="https://github-readme-stats.vercel.app/api?username=yulyzulu&show_icons=true&theme=bear" " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulyzulu&layout=compact&theme=bear" width="415" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yulyzulu&show_icons=true&theme=bear" height="165" />
  </p>
