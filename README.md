@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 I enjoy :woman_cook:cooking, :open_book:reading, :airplane:traveling and sharing with my 👭friends and :people_holding_hands:family:heart:
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508&style=flat)]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python&style=flat)]()
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Statistics
